@@ -1,4 +1,5 @@
 file one added into the addition folder
 
-
 again giving a sample command in branch 2
+
+sample commit have done
